@@ -174,6 +174,3 @@ References
 - Mohan, N. — *Power Electronics: Converters, Applications, and Design*, Wiley, 2003
 - [UN Sustainable Development Goals](https://sdgs.un.org/goals)
 ]
----
-
-*Built with ❤️ at FAST NUCES Karachi — Department of Electrical Engineering*
